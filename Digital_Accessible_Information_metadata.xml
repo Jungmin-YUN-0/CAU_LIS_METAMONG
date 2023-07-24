@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<metadata
+ xmlns:mods="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd”
+ xmlns:ammd=“ ”>
+<anchor>
+ <title> 도가니 </title>
+ <creator> 공지영 </creator>
+ <subject authority=“NLSH”> 한국 현대 소설[韓國現代小說] </subject>
+ <subject authority=“NLSH”> 한국 현대 문학[韓國現代文學] </subject>
+</anchor>
+<recordInfo>
+ <recordInstitution authority=“한국도서관부호표”> 011001 </recordInstitution>
+ <recordNumber> KMO201103561 </recordNumber>
+ <recordCreationDate type=“created” encoding="iso8601">
+ 20121231101404 </recordCreationDate>
+</recordInfo>
+ <recordDate type=“modified” encoding="iso8601”>
+ 20190819134503 </recordCreationDate>
+</recordInfo>
+<altPubInfo>
+ <altPubRole>
+ <brailleEmbosser> 해밀도서관 </brailleEmbosser>
+ </altPubRole>
+ <altPubInstitution authority=“한국도서관부호표”> 141144 </altPubInstitution>
+ <altPubDate encoding=“iso8601”> 20130103 </altPubDate>
+ <altPubRule type=“text”> 점자 도서 제작 지침(2019.3.개정) </altPubRule>
+ <altPubNote type=“url”>
+ http://nld.nl.go.kr/ableFront/new_standard_guide/replacement_standard.jsp
+ </altPubNote>
+</altPubInfo>
+<altType category=“braille” type=“map”> 점자도서 </altType>
+<altFormat>
+ <physicalSize> 15×28cm </physicalSize>
+ <page> vi, 100p </page>
+ <volume> 1-3 </volume>
+ <altFormatNote type=“text”> 레코드 작성을 위한 가상의 값임 </altFormatNote>
+</altFormat>
+<altOtherType>
+ <otherType>
+ <altType category=“audio”> Tape 녹음도서 </altType>
+ <otherRecordNum> 12345678 </otherRecordNum>
+ <otherInstitution authority=“한국도서관부호”> 011001 </otherInstitution>
+ </otherType>
+ <originInfo>
+ <recordNumber> 000002 </recordNumber>
+ <otherInstitution authority=“한국도서관부호”> 011001 </otherInstitution>
+ </originInfo>
+</altOtherType>
+<altContentStructure>
+ <tableOfContent type=“url”>
+ http://table_of_contents_of_dogani.html </tableOfContent>
+</altContentStructure>
+<altLanguage>
+ <textLanguage encoding=“iso639-2b”> kor </textLanguage>
+</altLanguage>
+<altIdentifier type=“isbn”> 1234567890 </altIdentifier>
+<altCopyright>
+ <copyrightHolder type=“individual” encoding=“ISNI”>
+ 12345678 </copyrightHolder>
+ <copyrightDate encoding=“iso6801”> 20190819 </copyrightDate>
+</altCopyright>
+<altLocation>
+ <holdingInstitution authority=“한국도서관부호”> 141144 </holdingInstitution>
+ <altLocationNote type=“text”> 부천에 위치함 </altLocationNote>
+</altLocation>
+<altUsageInfo>
+ <targetAudience> 시각장애 </targetAudience>
+</altUsageInfo>
+<altNote type=“text”> 점자도서 서지레코드 작성 예시로서의 레코드임 </altNote>
+<altNote type=“text”> 가격불명 </altNote>
